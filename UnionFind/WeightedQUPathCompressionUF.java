@@ -1,3 +1,5 @@
+package UnionFind;
+
 public class WeightedQUPathCompressionUF {
     private int[] id;
 

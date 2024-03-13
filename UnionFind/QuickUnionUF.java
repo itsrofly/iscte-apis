@@ -1,3 +1,5 @@
+package UnionFind;
+
 public class QuickUnionUF {
     private int[] id;
 

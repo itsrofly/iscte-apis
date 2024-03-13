@@ -11,3 +11,5 @@
 The aim is to develop simple APIs following the statement
 * Date - [Statement](https://github.com/rrofly/iscte-apis/blob/main/Date/statement.md)
 * UnionFind - [Statement](https://github.com/rrofly/iscte-apis/blob/main/UnionFind/statement.md)
+* ResizingArrayQueueOfStrings - [Statement](https://github.com/rrofly/iscte-apis/blob/main/ResizingArrayQueueOfStrings/statement.md)
+* Queue - [Statement](https://github.com/rrofly/iscte-apis/blob/main/Queue/statement.md)
