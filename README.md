@@ -6,3 +6,8 @@
 <img src="https://img.shields.io/badge/State-In_Progress-blue"/>
 <a href='https://www.linkedin.com/in/rofly' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 </p>
+
+## About
+The aim is to develop simple APIs following the statement
+* Date - [Statement](https://github.com/rrofly/iscte-apis/blob/main/Date/statement.md)
+* UnionFind - [Statement](https://github.com/rrofly/iscte-apis/blob/main/UnionFind/statement.md)
